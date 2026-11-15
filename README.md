@@ -1,6 +1,6 @@
 # rezazr.github.io
 
-Public website for games by rezazr, served by GitHub Pages at https://rezazr.github.io/ from the `main` branch root of the public repository `RezaZR/RezaZR.github.io` (personal account; never the employer's).
+Public website for games by rezazr, served by GitHub Pages at https://rezazr.github.io/ from the `main` branch root of the public repository `RezaZR/rezazr.github.io` (personal account; never the employer's).
 
 ## Pages
 
