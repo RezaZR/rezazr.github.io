@@ -20,7 +20,7 @@ The privacy policy describes RZRFM's real data flows, owned by the game reposito
 
 ## Links
 
-- Contact email: `rezazramadan1+rzrfm@gmail.com`, in every page footer and contact line.
+- Contact email: `rezazramadan1+games@gmail.com`, in every page footer and contact line.
 - Discord: `https://discord.gg/p37fmb7Awj` (a never-expiring invite), in `rzrfm/index.html` and `rzrfm/support.html`.
 - Add the Google Play and App Store links to `rzrfm/index.html` when the listings are live.
 
