@@ -9,6 +9,7 @@ Public website for games by rezazr, served by GitHub Pages at https://rezazr.git
 | `/` | `index.html` | Developer website in Google Play Console and App Store Connect |
 | `/rzrfm/` | `rzrfm/index.html` | RZRFM marketing URL |
 | `/rzrfm/privacy.html` | `rzrfm/privacy.html` | Privacy policy URL (Play Console app content, App Store Connect, in-game link) |
+| `/rzrfm/terms.html` | `rzrfm/terms.html` | Terms of Service URL (Play trader declaration, App Store EULA link) |
 | `/rzrfm/support.html` | `rzrfm/support.html` | Support URL and contact |
 | `/app-ads.txt` | `app-ads.txt` (add when LevelPlay provides its lines) | Ad network seller verification; must sit at the domain root |
 
